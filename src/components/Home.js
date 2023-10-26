@@ -1,4 +1,7 @@
 import React from "react";
+// let name = "Steve";
+// let city = "Nairobi"
+
 
 function Home(props) {
   return (
